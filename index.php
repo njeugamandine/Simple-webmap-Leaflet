@@ -173,13 +173,14 @@
                 dashArray: '',
                 lineCap: 'butt',
                 lineJoin: 'miter',
-                weight: 7.0, 
+                weight: 7.0,
                 fill: true,
                 fillOpacity: 1,
                 fillColor: 'rgba(145,82,45,0.0)',
                 interactive: true,
             }
         }
+        
         map.createPane('pane_Region_6');
         map.getPane('pane_Region_6').style.zIndex = 406;
         map.getPane('pane_Region_6').style['mix-blend-mode'] = 'normal';
@@ -232,7 +233,7 @@
                 dashArray: '',
                 lineCap: 'butt',
                 lineJoin: 'miter',
-                weight: 2.0, 
+                weight: 2.0,
                 fill: true,
                 fillOpacity: 1,
                 fillColor: 'rgba(125,139,143,0.0)',
@@ -294,7 +295,7 @@
                 dashArray: '',
                 lineCap: 'butt',
                 lineJoin: 'miter',
-                weight: 1.0, 
+                weight: 1.0,
                 fill: true,
                 fillOpacity: 1,
                 fillColor: 'rgba(190,178,151,0.0)',
